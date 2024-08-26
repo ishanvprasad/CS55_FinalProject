@@ -13,3 +13,5 @@ For our CS55 Final Project, we secured data in transit using PKI. To do this, we
 8. Create a security group for the server and one for the clients, and attach them to their respective instances
 9. SSH into the server and create a root CA, as well certificates and keys for the server and clients. Sign certificates.
 10. Test pinging and curl to ensure secure transfer of information using HTTPS
+
+To find a detailed guide on how to implement this project, click [here]()
