@@ -16,4 +16,4 @@ For our CS55 Final Project, we secured data in transit using PKI. To do this, we
 
  ## To dive deeper into how to implement this project, click [here](https://github.com/ishanvprasad/CS55_FinalProject/wiki)
 
-For graders: There were many issues I faced while completing this project and putting the wiki together. Many late nights (or into early mornings rather) went into this. Please keep this in mind when reviewing the page - I appreciate your understanding!
+<ins>For graders:<\ins> There were many issues I faced while completing this project and putting the wiki together. Many late nights (or into early mornings rather) went into this. Please keep this in mind when reviewing the page - I appreciate your understanding!
